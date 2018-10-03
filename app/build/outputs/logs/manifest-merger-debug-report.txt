@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7267dcfb5ead3410188e9f6b9b28692/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04a4cb5b67b78b99bad5725efb1fbf77/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9fcdd42eda7e4bdf8214cf4640193ee4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fdc8c7115400c9af039aa4c2b6f93574/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5cce3dacdc2e2619b697f83f06c47466/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0641ba7d6f027f3787125c8f65a82989/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01c9a9b454d8482042274cb2da2a2bd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7f106160f70ae81f89846b58f43959a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ae03165cc3aeab7590f373e8170d7db7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a26bf28bf5355a022f2a7e0b6460baab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2667059e1b16ff51f99cc28b7c1b49b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f4c5908ecedd5a2a2f435dbbdff87f6d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:1-15:12
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04a4cb5b67b78b99bad5725efb1fbf77/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04a4cb5b67b78b99bad5725efb1fbf77/AndroidManifest.xml:9:5-20
+activity#com.chefmic.kotlin.MainActivity
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:6:9-12:20
+	android:name
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:6:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:7:13-11:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:10:17-77
+	android:name
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml:10:27-74
+uses-sdk
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7267dcfb5ead3410188e9f6b9b28692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7267dcfb5ead3410188e9f6b9b28692/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04a4cb5b67b78b99bad5725efb1fbf77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04a4cb5b67b78b99bad5725efb1fbf77/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9fcdd42eda7e4bdf8214cf4640193ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9fcdd42eda7e4bdf8214cf4640193ee4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fdc8c7115400c9af039aa4c2b6f93574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/fdc8c7115400c9af039aa4c2b6f93574/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5cce3dacdc2e2619b697f83f06c47466/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5cce3dacdc2e2619b697f83f06c47466/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0641ba7d6f027f3787125c8f65a82989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0641ba7d6f027f3787125c8f65a82989/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01c9a9b454d8482042274cb2da2a2bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/01c9a9b454d8482042274cb2da2a2bd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7f106160f70ae81f89846b58f43959a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7f106160f70ae81f89846b58f43959a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ae03165cc3aeab7590f373e8170d7db7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ae03165cc3aeab7590f373e8170d7db7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a26bf28bf5355a022f2a7e0b6460baab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a26bf28bf5355a022f2a7e0b6460baab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2667059e1b16ff51f99cc28b7c1b49b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f2667059e1b16ff51f99cc28b7c1b49b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f4c5908ecedd5a2a2f435dbbdff87f6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/chenyuan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f4c5908ecedd5a2a2f435dbbdff87f6d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		ADDED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chenyuan/Documents/study/learn-kotlin/app/src/main/AndroidManifest.xml
