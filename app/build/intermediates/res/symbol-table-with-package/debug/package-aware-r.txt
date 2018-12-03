@@ -669,6 +669,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_change_text
 id buttonPanel
 id center
 id center_horizontal
@@ -765,6 +766,7 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id text_view
 id time
 id title
 id titleDividerNoCustom

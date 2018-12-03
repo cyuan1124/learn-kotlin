@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chenyuan/Documents/study/learn-kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
+            "outputFile": "/Users/cyuan/Documents/dev/learn/learn-kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml",
             "map": [
                 {
-                    "source": "/Users/chenyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a7f106160f70ae81f89846b58f43959a/res/values-ro/values-ro.xml",
+                    "source": "/Users/cyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5ca60aba9adb662ae51c68b727000019/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
+                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
+                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
+                    }
+                },
+                {
+                    "source": "/Users/cyuan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e9240a6820909205f4587b4894c6eaf4/res/values-ro/values-ro.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2013",
                         "endColumns": "100",
                         "endOffsets": "2109"
-                    }
-                },
-                {
-                    "source": "/Users/chenyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7267dcfb5ead3410188e9f6b9b28692/res/values-ro/values-ro.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,226,330,443,531,643,764,849,930,1013,1125,1238,1338,1452,1557,1663,1827,1930",
-                        "endColumns": "120,103,112,87,111,120,84,80,82,111,112,99,113,104,105,163,102,82",
-                        "endOffsets": "221,325,438,526,638,759,844,925,1008,1120,1233,1333,1447,1552,1658,1822,1925,2008"
                     }
                 }
             ]

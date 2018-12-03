@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/chenyuan/Documents/study/learn-kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/Users/cyuan/Documents/dev/learn/learn-kotlin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/chenyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a7267dcfb5ead3410188e9f6b9b28692/res/values-land/values-land.xml",
+                    "source": "/Users/cyuan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/5ca60aba9adb662ae51c68b727000019/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
